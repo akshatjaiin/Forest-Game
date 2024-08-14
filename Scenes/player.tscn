@@ -420,12 +420,12 @@ size = Vector2(25, 53)
 script = ExtResource("1_kijtf")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-position = Vector2(2, -17)
-scale = Vector2(2.97917, 2.875)
+position = Vector2(-2.125, 4.5)
+scale = Vector2(1.83854, 1.02083)
 sprite_frames = SubResource("SpriteFrames_fjfre")
 animation = &"front_walk"
 autoplay = "front_idle"
-frame_progress = 0.644577
+frame_progress = 0.303186
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(2.5, 3.5)
