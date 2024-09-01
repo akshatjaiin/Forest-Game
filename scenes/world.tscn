@@ -33046,7 +33046,7 @@ offset_top = 247.0
 offset_right = 399.0
 offset_bottom = 296.0
 text = "THE POKE-HUNT:
-ali akbar khan"
+yash jain"
 
 [node name="Label2" type="Label" parent="."]
 modulate = Color(1, 0.124572, 0.0864943, 1)
@@ -33062,4 +33062,5 @@ offset_left = 1190.0
 offset_top = 543.0
 offset_right = 1439.0
 offset_bottom = 592.0
-text = "github: aliiakbarkhan"
+text = "github:akshatjaiin
+"
