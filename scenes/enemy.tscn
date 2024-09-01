@@ -1,54 +1,41 @@
-[gd_scene load_steps=19 format=3 uid="uid://db4mots0dstxc"]
+[gd_scene load_steps=18 format=3 uid="uid://db4mots0dstxc"]
 
-[ext_resource type="Texture2D" uid="uid://bo70717ym7m56" path="res://art/characters/025.png" id="1_g7ra8"]
 [ext_resource type="Script" path="res://scripts/enemy.gd" id="1_y7gln"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_yckss"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(0, 192, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_4f8m3"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(64, 192, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_wtx6c"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(128, 192, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_0kkni"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(192, 192, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ib8oi"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(0, 0, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_pm6fe"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(64, 0, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_dkmhn"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(128, 0, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_o7rpk"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(192, 0, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_tn7u2"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(0, 64, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_gh78w"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(64, 64, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_dbwjk"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(128, 64, 64, 64)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_my228"]
-atlas = ExtResource("1_g7ra8")
 region = Rect2(192, 64, 64, 64)
 
 [sub_resource type="SpriteFrames" id="SpriteFrames_mferl"]
